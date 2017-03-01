@@ -1,7 +1,10 @@
-# Trevor-and-jake-site
-Trevor And Jake Team Site
+# Jody Site
+*Coming Soon*
+
+This site is under development
 
 
 
-
-## Here is the Sorce code for Our Site
+## UPDATES
+We are curently working to Design a Better site. This is the coming soon template. 
+Once we make one we will Update this one.
